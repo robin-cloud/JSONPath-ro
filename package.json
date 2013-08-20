@@ -1,9 +1,9 @@
 {
-  "name": "JSONPath-ro",
+  "name": "jsonpath-ro",
   "description": "A JS implementation of JSONPath that Optimized by robin",
   "author": "Stefan Goessner",
   "contributors": [
-    "Prof. G�ssner <stefan.goessner@fh-dortmund.de>",
+    "Prof. Gssner <stefan.goessner@fh-dortmund.de>",
     "Subbu Allamaraju <subbu@subbu.org>",
     "Mike Brevoort <mike@brevoort.com>",
     "Robin Cloud <dio.paper@gmail.com>"
@@ -22,8 +22,11 @@
     "url": "https://github.com/robin-cloud/JSONPath-ro/issues"
   },
   "directories": {
+    "test": "test"
   },
-  "scripts": {
-  },
-  "license": "MIT"
+  "scripts": {},
+  "license": "MIT",
+  "keywords": [
+    "JSONPath"
+  ]
 }

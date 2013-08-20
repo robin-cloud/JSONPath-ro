@@ -1,17 +1,17 @@
 Install
 =======
     
-    npm install JSONPath-ro
+    npm install jsonpath-ro
 
 Evaluate
 ========
 
-    var jsonpath = require('JSONPath-ro');
+    var jsonpath = require('jsonpath-ro');
     jsonpath.eval(obj, path);
 
 Or more concisely:
 
-	var jsonpath = require('JSONPath-ro').eval;
+	var jsonpath = require('jsonpath-ro').eval;
 	jsonpath(obj, path);
 
 Examples
