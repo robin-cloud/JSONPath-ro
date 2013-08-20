@@ -1,34 +1,29 @@
 {
-    "author": "Stefan Goessner",
-    "name": "JSONPath-ro",
-    "description": "A JS implementation of JSONPath that Optimized by robin",
-    "contributors": [
-        {
-            "name": "Prof. Gšssner",
-            "email": "stefan.goessner@fh-dortmund.de"
-        },
-        {
-            "name": "Subbu Allamaraju",
-            "email": "subbu@subbu.org"
-        },
-        {
-            "name": "Mike Brevoort",
-            "email": "mike@brevoort.com"
-        },
-        {
-            "name": "Robin Cloud",
-            "email": "dio.paper@gmail.com"
-        }
-    ],
-    "version": "0.9.1.1",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/robin-cloud/JSONPath-ro.git"
-    },
-    "main": "./lib/jsonpath-ro",
-    "dependencies": {
-    },
-    "devDependencies": {
-        "nodeunit": "0.6.x"
-    }
+  "name": "JSONPath-ro",
+  "description": "A JS implementation of JSONPath that Optimized by robin",
+  "author": "Stefan Goessner",
+  "contributors": [
+    "Prof. Gï¿½ssner <stefan.goessner@fh-dortmund.de>",
+    "Subbu Allamaraju <subbu@subbu.org>",
+    "Mike Brevoort <mike@brevoort.com>",
+    "Robin Cloud <dio.paper@gmail.com>"
+  ],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robin-cloud/JSONPath-ro.git"
+  },
+  "main": "./lib/jsonpath-ro",
+  "dependencies": {},
+  "devDependencies": {
+    "nodeunit": "0.6.x"
+  },
+  "bugs": {
+    "url": "https://github.com/robin-cloud/JSONPath-ro/issues"
+  },
+  "directories": {
+  },
+  "scripts": {
+  },
+  "license": "MIT"
 }
